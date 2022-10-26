@@ -28,4 +28,5 @@ export ROS_PACKAGE_PATH=${ROS_PACKAGE_PATH}:$px4_dir
 
 5. 움직이기
 - example code 실행
+    - chmod +x ~/catkin_ws/src/precland/scripts/offb_node
     - rosrun precland_simul offb_node
